@@ -10,8 +10,8 @@
 *Empty!*
 
 ### In Progress:
-* DICE ROLL
-* MAGIC 8 BALL
+* Random Dice Roll `!roll`
+* Magic 8-Ball Fortune Teller `!8ball`
 
 ### Planned:
 
