@@ -5,7 +5,6 @@ const bot = new Discord.Client();
 bot.on('message', (message) => {
 
     message = message.split();
-
     if(message.indexOf('ping') > -1){
         message.reply('pong');
     }
