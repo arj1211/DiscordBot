@@ -35,6 +35,6 @@
 
 * RESULT: Give them an error message
     
-        "Please ask me a question!"
+        Example: "Please ask me a question!"
 
 *ALL 8 BALL STATEMENTS ARE PREWRITTEN AND READ FROM A TEXTFILE*
