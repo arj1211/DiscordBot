@@ -4,10 +4,14 @@ const bot = new Discord.Client();
 
 bot.on('message', (message) => {
 
-    if(message.content=='ping'){
+    msg = message.toString().toLowerCase().split();
+
+    // if(message.content=='ping'){
+    if (msg.indexOf('ping') > -1){
         message.reply('POING');
     }
 
 });
 
-bot.login('TOKEN');
+var TOKEN = require('./token.json');
+bot.login(TOKEN.token);
