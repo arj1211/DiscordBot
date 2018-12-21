@@ -1,6 +1,6 @@
 const Discord = require ('discord.js');
 const bot = new Discord.Client();
-
+//hello
 
 bot.on('message', (message) => {
 
