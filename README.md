@@ -3,33 +3,17 @@
 
 ### Implemented, Documented:
 
-
-
 *Empty!*
-
-
 
 ### Implemented, Undocumented:
 
-
-
 *Empty!*
 
+### In Progress:
+* DICE ROLL
+* MAGIC 8 BALL
 
-
-### CURRENT GOALS:
-
-
-
-    * <Random Elements>
-        * DICE ROLL
-        * MAGIC 8 BALL
-
-
-
-### FUTURE GOALS:
-
-
+### Planned:
 
 * Music
 * Memes
