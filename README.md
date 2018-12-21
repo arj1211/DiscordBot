@@ -16,6 +16,7 @@
 ### Planned:
 
 * Music
+* Song search based on lyric
 * Memes
 * RPG/Mining
 
