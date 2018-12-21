@@ -1,10 +1,12 @@
-# 8 Ball
+# !8Ball
 
 ## Usage:
 
 `!8ball <question>`
 
-### Notes:
+* Example: !8ball "Will I get laid tonight?"
+
+### Pseudo-Code:
 
 *Only does yes or no questions.*
 
@@ -19,7 +21,7 @@
 
 * RESULT: Generate something that says yes or no
 	
-		** Example: "It is possible", "Not a chance"
+		Example: "It is possible", "Not a chance"
 
 #### Other Questions:
 
@@ -27,10 +29,12 @@
 
 * RESULT: Avoid the question
 	
-		** Example: "Go ask Siri", "Do I look like Cortana?"
+		Example: "Go ask Siri", "Do I look like Cortana?"
 
 ##### Else:
 
-* Result: "Please ask me a question!"
+* RESULT: Give them an error message
+    
+        "Please ask me a question!"
 
 *ALL 8 BALL STATEMENTS ARE PREWRITTEN AND READ FROM A TEXTFILE*
