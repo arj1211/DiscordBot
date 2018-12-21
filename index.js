@@ -1,5 +1,9 @@
 const Discord = require ('discord.js');
 const bot = new Discord.Client();
+var TOKEN = require('./token.json');
+bot.login(TOKEN.token);
+
+let prefix = "!"; // Universal prefix for sancho
 
 
 bot.on('message', (message) => {
@@ -12,5 +16,6 @@ bot.on('message', (message) => {
 
 });
 
-var TOKEN = require('./token.json');
-bot.login(TOKEN.token);
+
+
+
