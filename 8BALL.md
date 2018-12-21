@@ -4,8 +4,7 @@
 
 `!8ball <question>`
 
-* 
-    Example: !8ball "Will I get laid tonight?"
+*!8ball "Will I get laid tonight?"*
 
 ### Pseudo-Code:
 
