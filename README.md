@@ -1,16 +1,7 @@
-# DiscordBot
+# Sanchez the Great
+## Discord Bot
 
-###########BOTGOALS##########
-
-FINALLY DONE (Fully Documented):
-
-
-
-*Empty!*
-
-
-
-DONE (Not Documented):
+### Implemented, Documented:
 
 
 
@@ -18,22 +9,30 @@ DONE (Not Documented):
 
 
 
-CURRENT GOALS:
+### Implemented, Undocumented:
 
 
 
-    <Random Elements>
-    - DICE ROLL
-    - MAGIC 8 BALL
+*Empty!*
 
 
 
-FUTURE GOALS:
+### CURRENT GOALS:
 
 
 
-- Music
-- Memes
-- RPG/Mining
+    * <Random Elements>
+        * DICE ROLL
+        * MAGIC 8 BALL
+
+
+
+### FUTURE GOALS:
+
+
+
+* Music
+* Memes
+* RPG/Mining
 
 
