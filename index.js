@@ -9,7 +9,6 @@ let prefix = "!"; // Universal prefix for sancho
 bot.on('message', (message) => {
 
     msg = message.toString().toLowerCase().split(' ');
-    // if(message.content=='ping'){
     if (msg.indexOf('ping') > -1){
         message.reply('POING');
     }
